@@ -1,0 +1,10 @@
+
+fn main() {
+    
+    println!("98_222 {} ", 98_222);
+    println!("0xff = {} ", 0xff);
+    println!("0o177 = {} ", 0o177);
+    println!("0b1111_0000 = {} ", 0b1111_0000);
+    println!("b'a' = {} ", b'a');
+      
+}
